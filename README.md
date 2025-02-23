@@ -1,18 +1,17 @@
-# AI Collaborative Problem Solver 🤖🧠
+# Overview 
 
-Make multiple Ai models debate andthink to solve a problem / answer a question
+Making multiple Ai models debate and think step by step to solve a problem / answer a question in one conversation
 
 ## Table of Contents
 - [Overview](#overview)
-- [Features](#features)
 - [Demo Video](#demo-video)
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- 
 
-## Features ✨
+## Features 
 
 - **Multi-Model Collaboration** - GPT-4 (analyst), GPT-3.5 (creative), GPT-4o (synthesizer)
 - **Confidence Scoring** - Each response includes self-assessed confidence percentage
@@ -20,7 +19,7 @@ Make multiple Ai models debate andthink to solve a problem / answer a question
 - **Follow-up Support** - Continuous dialogue for extended problem solving
 - **Transparent Process** - Full conversation history tracking
 
-## Working principles 🏗️
+## Working principles 
 
 - A[User Input] --> B(Alpha Analysis)
 - B --> C(Beta Critique)
@@ -29,22 +28,12 @@ Make multiple Ai models debate andthink to solve a problem / answer a question
 - E --> F[Final Answer]
 
 
-
-
-
-
-## Overview
-
-The AI Collaborative Problem Solver leverages the strengths of multiple AI models to produce comprehensive and refined solutions. It orchestrates a series of debates and synthesis rounds that ensure well-rounded problem solving.
-
 ## Demo Video
 
-<video width="640" height="360" controls>
-  <source src="https://res.cloudinary.com/diekemzs9/video/upload/v1740345798/two_heads_t78ehy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/abad33e1-7d36-46b7-8b8d-b4c5d44debb2
 
-## Architecture 🏗️
+
+## Architecture 
 
 The system workflow is designed as follows:
 
@@ -58,19 +47,13 @@ The system workflow is designed as follows:
 ## Installation
 
 1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the application.
-
-```bash
-git clone <repository_url>
-cd <repository_directory>
-pip install -r requirements.txt
-python main.py
-```
+2. Install the required dependencies.
+3. Add your open ai api key
+4. Run the application. `python main.py`
 
 ## Usage
 
-Interact with the system via a command line interface or a web interface. Simply provide your query and follow the on-screen instructions for a guided problem-solving experience.
+Interact with the system via a command line interface. Simply provide your query and follow the on-screen instructions for a guided problem-solving experience.
 
 ## Contributing
 
