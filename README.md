@@ -9,7 +9,6 @@ Making multiple Ai models debate and think step by step to solve a problem / ans
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- 
 
 ## Features 
 
