@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 # Initialize the client with your API key
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='API_KEY')
 
 # Define system messages for both models
 SYSTEM_A = """You are Assistant Alpha (GPT-4). Provide concise, factual answers.
